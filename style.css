@@ -1,0 +1,61 @@
+* {
+    background-color: #F0F8FF;
+    font-family: 'Silkscreen', cursive;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3e3b3b;
+}
+
+h1 {
+    font-size: 250%;
+    background-color:rgb(61, 164, 164);
+    padding: 0 2%;
+}
+
+nav {
+    background-color: #3e3b3b;
+}
+
+nav ul {
+    background-color: #3e3b3b;
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    margin-right: 30px;
+  }
+nav li {
+    background-color: #3e3b3b;
+    list-style:url(./images/favicon-32x32.png);
+    margin: 25px;
+
+}
+
+nav a {
+    background-color: #3e3b3b;
+    color: rgb(61, 164, 164);
+    font-size: 18px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+
+}
+
+/* .cover::before {
+    content: url(./images/lauren-mancke-aOC7TSLb1o8-unsplash.jpg);
+} */
+
+@media (min-width: 1440px) {
+
+}
