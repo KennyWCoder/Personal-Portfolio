@@ -186,20 +186,23 @@ div.gallery {
     .gallery img {
         border-width: 10px;
     }
+
     .gallery-2 img {
         border-width: 10px;
     }
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:698px) {
     h2 {
         text-align: center;
         writing-mode: vertical-rl;
     }
+
     footer {
         padding: 5%;
         text-align: right;
     }
+
     .one {
         margin-bottom: 20px;
     }
