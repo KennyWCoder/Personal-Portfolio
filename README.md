@@ -8,6 +8,7 @@
 
 ## Preview of the website
 
+![Screen Shot ](https://user-images.githubusercontent.com/97656734/185814170-32e6b3fb-9eb5-4f5b-9eca-e03c80cec019.png)
 
 
 ## Link to the website
